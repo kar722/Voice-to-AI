@@ -1,0 +1,10 @@
+fastapi
+speechrecognition
+google-generativeai
+gtts
+pygame
+uvicorn 
+pydantic-settings
+python-dotenv 
+sounddevice
+soundfile 
